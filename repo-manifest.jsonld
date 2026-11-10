@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sharish/ShimmerRecyclerView/commit/24cf1a07538bd55fa51a16c101d8bc568dd46850",
       "git:hexsha": "24cf1a07538bd55fa51a16c101d8bc568dd46850",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T04:00:47.550819+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sharish/ShimmerRecyclerView/commit/bfd51cbfaac49da7d1e85f4324f468174bfe5cd0",
